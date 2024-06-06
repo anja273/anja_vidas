@@ -1,0 +1,35 @@
+p {
+	font-family: Georgia, serif;
+	font-size: 18px;
+	line-height: 16px;
+	background-color: lightcyan;
+	width: 900px;
+	padding: 10px;
+}
+h1 {
+	font-family: Garamond;
+	color: royalblue;
+}
+body{
+	background-image: url("multimedij/mojaslika.jpg");
+}
+span {color: purple}
+a:link{
+	color: black;
+	background-color: MistyRose;
+	padding: 5px;
+	line-height: 40px;
+}
+a:hover{
+	background-color: lightcyan;
+}
+li {
+	font-size: 18px
+}
+blockquote {
+	font-size: 18px;
+	background-color: MistyRose;
+	width: 320px;
+	padding: 5px;
+	border: 1px solid black;
+}
